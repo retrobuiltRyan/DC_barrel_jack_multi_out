@@ -10,11 +10,11 @@ example application with a pico ATX psu:
 ![P1110033](https://github.com/user-attachments/assets/b4fb266e-f8ee-406c-a9cf-85c2cbdc13a2)
 
 
-| Reference     | Value                      | Qty | DigiKey P/N      |
-|---------------|----------------------------|-----|------------------|
-| D1,D2         | LED                        | 2   | 1080-1419-1-ND   |
-| H1,H2,H3,H4   | MountingHole_M3            | 4   |                  |
-| J2            | Screw_Terminal_4_P5.00mm   | 2   | 277-1667-ND      |
-| R1,R2         | 5k                         | 2   | 311-100KFRCT-ND  |
-| S1,S2         | ~                          | 2   | EG5617-ND        |
-
+| Reference           | Value                     | Qty | DigiKey P/N      |
+|---------------------|---------------------------|-----|------------------|
+| D1,D2              | LED                        | 2   | 1080-1419-1-ND   |
+| H1,H2,H3,H4        | MountingHole_M3            | 4   |                  |
+| J1,J3-J9           | Barrel_Jack                | 8   | EJ508A-ND        |
+| J2                 | Screw_Terminal_4_P5.00mm   | 1   | 277-1667-ND      |
+| R1,R2              | 5k                         | 2   | 311-100KFRCT-ND  |
+| S1,S2              | ~                          | 2   | EG5617-ND        |
