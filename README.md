@@ -6,6 +6,9 @@ https://youtu.be/6R5AQ15R8a4
 
 <img width="1627" height="830" alt="PCB" src="https://github.com/user-attachments/assets/7804e27e-2f9a-4068-a4d9-3d82da8c6c5c" />
 
+example application with a pico ATX psu:
+![P1110033](https://github.com/user-attachments/assets/b4fb266e-f8ee-406c-a9cf-85c2cbdc13a2)
+
 
 | Reference     | Value                        | Qty | DigiKey P/N      |
 |---------------|------------------------------|-----|------------------|
